@@ -42,4 +42,4 @@ The goal is to practice data cleaning skills using Python in a Jupyter Notebook 
 
 This data was cleaned by Mrunmayee Hasabnis, a data enthusiast with experience in retail IT and a strong interest in data analytics and visualization
 
-Connect with me on (www.linkedin.com/in/mrunmayee-hasabnis)
+Connect with me on (www.linkedin.com/in/mrunmayee-hasabnis).
